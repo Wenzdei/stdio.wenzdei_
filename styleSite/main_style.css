@@ -1,6 +1,6 @@
 body {
     background-image: url("/visualSite/imageAssets/siteBackground_01.jpg");
-    background-size: cover;
+    background-size: auto;
     color: rgb(199, 199, 199);
     font-family: monospace;
     text-align: center;
